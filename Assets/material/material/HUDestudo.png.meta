@@ -1,0 +1,694 @@
+fileFormatVersion: 2
+guid: 9f43412c26460ad498b0fdafd592e64b
+timeCreated: 1483190662
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HUDestudo_0
+    21300002: HUDestudo_1
+    21300004: HUDestudo_2
+    21300006: HUDestudo_3
+    21300008: HUDestudo_4
+    21300010: HUDestudo_5
+    21300012: HUDestudo_6
+    21300014: HUDestudo_7
+    21300016: HUDestudo_8
+    21300018: HUDestudo_9
+    21300020: HUDestudo_10
+    21300022: HUDestudo_11
+    21300024: HUDestudo_12
+    21300026: HUDestudo_13
+    21300028: HUDestudo_14
+    21300030: HUDestudo_15
+    21300032: HUDestudo_16
+    21300034: HUDestudo_17
+    21300036: HUDestudo_18
+    21300038: HUDestudo_19
+    21300040: HUDestudo_20
+    21300042: HUDestudo_21
+    21300044: HUDestudo_22
+    21300046: HUDestudo_23
+    21300048: HUDestudo_24
+    21300050: HUDestudo_25
+    21300052: HUDestudo_26
+    21300054: HUDestudo_27
+    21300056: HUDestudo_28
+    21300058: HUDestudo_29
+    21300060: HUDestudo_30
+    21300062: HUDestudo_31
+    21300064: HUDestudo_32
+    21300066: HUDestudo_35
+    21300068: HUDestudo_36
+    21300070: HUDestudo_37
+    21300072: HUDestudo_38
+    21300074: HUDestudo_39
+    21300076: HUDestudo_40
+    21300078: HUDestudo_41
+    21300080: HUDestudo_50
+    21300082: HUDestudo_42
+    21300084: HUDestudo_33
+    21300086: HUDestudo_34
+    21300088: HUDestudo_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HUDestudo_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1924
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1932
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1616
+        width: 637
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1780
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1798
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1661
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1656
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1655
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1472
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_11
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1467
+        width: 88
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_12
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1473
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_13
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1472
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_14
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1390
+        width: 356
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1336
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_16
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1336
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1336
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_18
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1336
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_19
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1336
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_20
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1319
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1216
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_22
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1216
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_23
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1216
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_24
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1216
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_25
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1215
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_26
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1227
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_27
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1019
+        width: 637
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_28
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 468
+        width: 481
+        height: 526
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_29
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 915
+        width: 146
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_30
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 836
+        width: 127
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_31
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 641
+        width: 375
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_32
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 723
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_35
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 513
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_36
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 512
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_37
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 512
+        width: 81
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_38
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 512
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_39
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 512
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_40
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 512
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_41
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 512
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_50
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 22
+        width: 966
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_42
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 420
+        width: 319
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_33
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 566
+        width: 121
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1448
+        width: 504
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1564
+        width: 102
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_34
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1564
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HUDestudo_43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1564
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 759f18ef78182ac41a2c54efdab9adda
+timeCreated: 1495559888
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Autarquica
+  fontNames:
+  - Autarquica
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

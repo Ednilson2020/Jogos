@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: 467f7a14d1d0dae4b9503ade22a5f8c0
+timeCreated: 1509844558
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: button-1750627_1280_0
+    21300002: button-1750627_1280_1
+    21300004: button-1750627_1280_2
+    21300006: button-1750627_1280_3
+    21300008: button-1750627_1280_4
+    21300010: button-1750627_1280_5
+    21300012: button-1750627_1280_6
+    21300014: button-1750627_1280_7
+    21300016: button-1750627_1280_8
+    21300018: button-1750627_1280_9
+    21300020: button-1750627_1280_10
+    21300022: button-1750627_1280_11
+    21300024: button-1750627_1280_12
+    21300026: button-1750627_1280_13
+    21300028: button-1750627_1280_14
+    21300030: button-1750627_1280_15
+    21300032: button-1750627_1280_16
+    21300034: button-1750627_1280_17
+    21300036: button-1750627_1280_18
+    21300038: button-1750627_1280_19
+    21300040: button-1750627_1280_20
+    21300042: button-1750627_1280_21
+    21300044: button-1750627_1280_22
+    21300046: button-1750627_1280_23
+    21300048: button-1750627_1280_24
+    21300050: button-1750627_1280_25
+    21300052: button-1750627_1280_26
+    21300054: button-1750627_1280_27
+    21300056: button-1750627_1280_28
+    21300058: button-1750627_1280_29
+    21300060: button-1750627_1280_30
+    21300062: button-1750627_1280_31
+    21300064: button-1750627_1280_32
+    21300066: button-1750627_1280_33
+    21300068: button-1750627_1280_34
+    21300070: button-1750627_1280_35
+    21300072: button-1750627_1280_36
+    21300074: button-1750627_1280_37
+    21300076: button-1750627_1280_38
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: button-1750627_1280_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 520
+        width: 272
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 660
+        width: 76
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 524
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_3
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 660
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_4
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 660
+        width: 76
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_5
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 520
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_6
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 524
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_7
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 520
+        width: 272
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_8
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 524
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 520
+        width: 76
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_10
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 520
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_11
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 520
+        width: 76
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 349
+        width: 142
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 348
+        width: 139
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 348
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_15
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 348
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_16
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 348
+        width: 145
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 348
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_18
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 348
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_19
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 412
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_20
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 348
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_21
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 412
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 248
+        width: 204
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_23
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 312
+        width: 101
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_24
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 248
+        width: 208
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_25
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 312
+        width: 100
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 248
+        width: 180
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_27
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 248
+        width: 151
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_28
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 248
+        width: 180
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_29
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 248
+        width: 152
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_30
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 260
+        width: 4
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 212
+        width: 500
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_32
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 212
+        width: 500
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 140
+        width: 539
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_34
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 140
+        width: 539
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_35
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 44
+        width: 272
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_36
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 44
+        width: 279
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_37
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 44
+        width: 276
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button-1750627_1280_38
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 44
+        width: 279
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e711d6383e095ed4398e19569da1e7dc
+timeCreated: 1491602475
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Komika Glaze
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 20ff8bd74895bb24085886acaa10036e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

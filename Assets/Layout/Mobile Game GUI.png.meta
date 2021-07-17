@@ -1,0 +1,786 @@
+fileFormatVersion: 2
+guid: f82292efc28bf4844869d9c7ff3ed123
+timeCreated: 1509843160
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mobile Game GUI_0
+    21300002: Mobile Game GUI_1
+    21300004: Mobile Game GUI_2
+    21300006: Mobile Game GUI_3
+    21300008: Mobile Game GUI_4
+    21300010: Mobile Game GUI_5
+    21300012: Mobile Game GUI_6
+    21300014: Mobile Game GUI_7
+    21300016: Mobile Game GUI_8
+    21300018: Mobile Game GUI_9
+    21300020: Mobile Game GUI_10
+    21300022: Mobile Game GUI_11
+    21300024: Mobile Game GUI_12
+    21300026: Mobile Game GUI_13
+    21300028: Mobile Game GUI_14
+    21300030: Mobile Game GUI_15
+    21300032: Mobile Game GUI_16
+    21300034: Mobile Game GUI_17
+    21300036: Mobile Game GUI_18
+    21300038: Mobile Game GUI_19
+    21300040: Mobile Game GUI_20
+    21300042: Mobile Game GUI_21
+    21300044: Mobile Game GUI_22
+    21300046: Mobile Game GUI_23
+    21300048: Mobile Game GUI_24
+    21300050: Mobile Game GUI_25
+    21300052: Mobile Game GUI_26
+    21300054: Mobile Game GUI_27
+    21300056: Mobile Game GUI_28
+    21300058: Mobile Game GUI_29
+    21300060: Mobile Game GUI_30
+    21300062: Mobile Game GUI_31
+    21300064: Mobile Game GUI_32
+    21300066: Mobile Game GUI_33
+    21300068: Mobile Game GUI_34
+    21300070: Mobile Game GUI_35
+    21300072: Mobile Game GUI_36
+    21300074: Mobile Game GUI_37
+    21300076: Mobile Game GUI_38
+    21300078: Mobile Game GUI_39
+    21300080: Mobile Game GUI_40
+    21300082: Mobile Game GUI_41
+    21300084: Mobile Game GUI_42
+    21300086: Mobile Game GUI_43
+    21300088: Mobile Game GUI_44
+    21300090: Mobile Game GUI_45
+    21300092: Mobile Game GUI_46
+    21300094: Mobile Game GUI_47
+    21300096: Mobile Game GUI_48
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile Game GUI_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5096
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 5134
+        width: 241
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 5057
+        width: 241
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4984
+        width: 220
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4984
+        width: 241
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4896
+        width: 213
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4904
+        width: 199
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4803
+        width: 215
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_8
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 4795
+        width: 220
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 4709
+        width: 221
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4717
+        width: 236
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 4636
+        width: 231
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4496
+        width: 668
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 4399
+        width: 495
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_14
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 4400
+        width: 133
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 4214
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_16
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4214
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 4214
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_18
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 4212
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_19
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 4214
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_20
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 4216
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_21
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 3892
+        width: 75
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4107
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4107
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 4107
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_25
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 4107
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_26
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 4107
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_27
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 3890
+        width: 75
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3998
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3998
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_30
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3998
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_31
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 3998
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_32
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3998
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3895
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_34
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3895
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3895
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_36
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 3895
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_37
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3895
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3742
+        width: 426
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_39
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3337
+        width: 641
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_40
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3173
+        width: 423
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_41
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2673
+        width: 487
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_42
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2369
+        width: 364
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_43
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2227
+        width: 210
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_44
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2063
+        width: 398
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_45
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1919
+        width: 426
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_46
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1162
+        width: 592
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_47
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1018
+        width: 426
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile Game GUI_48
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 239
+        width: 592
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
